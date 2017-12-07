@@ -35,3 +35,4 @@ database*/
 .idea/
 
 vendor
+*.sqlite
